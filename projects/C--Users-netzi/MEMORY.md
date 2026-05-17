@@ -1,0 +1,10 @@
+- [Step-2 Unity 2D 横版回合制 RPG](project_step2_unity_rpg.md) — 工程路径、Tuanjie GUID 双形态、关键 manager 文件位置、AGENTS.md 规则
+- [Step-2 UI 隐藏与运行时激活模式](project_ui_visibility_pattern.md) — BattleCanvas/ShopSystem 可取消勾选；UICanvas 必须勾选（否则全部 manager 单例 null，I/C/E/S/ESC 失效）
+- [静态文件诊断不要早下结论](feedback_diagnose_before_assert.md) — Canvas/Animator 等会 driven Transform 字段；只看 YAML 容易误判；布尔短路日志无法区分前置 null
+- [Step-2 任务交付清单格式](project_step2_handoff_format.md) — 每次任务完成必须额外列出"要覆盖的脚本"清单，方便用户同步到工作工程
+- [用户用 Git Bash，不要给 PowerShell 风格命令](feedback_user_uses_gitbash.md) — 路径用 `/e/...` 或 `"E:/..."`、串联用 `&&`，不要写 `E:\...` + `;`
+- [批处理任务期间保持安静](feedback_quiet_during_batch.md) — 多步工作流默认沉默，完成/阻塞/异常才开口；与 ~/.claude/output-styles/quiet.md 配合
+- [短剧翻译 polish 风格 — 不要拘泥原文](feedback_translation_style.md) — 当前译文已传达意思就别为补回原文细节而改写；只动错译/格式/字符数/一致性/标点歧义
+- [Starling 短剧校对工作流](project_starling_polish_workflow.md) — 抓 65 行 + 按 Guide polish + 用户审核 + JS 写回，不点完成校对
+- [《房东涨房租》术语库](project_starling_show_rent_glossary.md) — She Raised My Rent，刘军=James Miller、刘春燕=Helen Miller、刘春梅=Mary Miller、李航天=Tony Lee 等 59 条映射，所有 order 必须遵守
+- [《房东涨房租》校对进度](project_starling_show_rent_progress.md) — 2026-05-16 完成 Order 1/2/3，待做 4-10（task IDs 151171843074 起），均未点"完成校对"
