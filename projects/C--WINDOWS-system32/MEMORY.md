@@ -1,0 +1,4 @@
+- [Starling 短剧校对工作流](project_starling_polish_workflow.md) — 字节 Starling 中→英字幕 polish 操作流程：抓行→diff→审核→JS 写回
+- [《房东涨房租》术语库](project_starling_show_rent_glossary.md) — 59 条人名/地名/品牌本地化映射，所有 order 遵守
+- [《房东涨房租》校对进度](project_starling_show_rent_progress.md) — 3/10 done，Order 4 待做，task ID: 151171843074
+- [短剧翻译风格反馈](feedback_translation_style.md) — 不拘泥原文，只动错译/格式/字符数/一致性/标点歧义
